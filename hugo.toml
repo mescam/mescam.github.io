@@ -21,8 +21,13 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-Something would be here at some point
-"""
+My name is Jakub Woźniak and I’m a Software and Cloud Architect with over 10 years of experience, currently serving as the CTO of Software Services at Nordcloud, an IBM Company. My career has been a blend of hands-on technical expertise and strategic leadership. I specialize in cloud architecture, particularly across AWS, GCP, and Azure, where I design and implement scalable, cloud-native solutions.
+
+Beyond technical execution, my role involves guiding teams, driving innovation, and aligning technology strategies with business objectives. My expertise spans DevOps, SRE, and Platform Engineering, enabling organizations to achieve efficiency, reliability, and growth.
+
+In addition to my professional life, I enjoy flight simulation, sport shooting, 3D printing, microelectronics, and crafting the perfect cup of coffee.
+
+Whether you’re here to learn, collaborate, or connect, I’m glad you stopped by."""
 
 # Collection to display on home
 homeCollectionTitle = 'Posts'
