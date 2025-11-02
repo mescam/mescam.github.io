@@ -47,10 +47,6 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/wozniakjakub"
 
 [[params.social]]
-name = "medium"
-url = "https://medium.com/@jakubwozniak"
-
-[[params.social]]
 name = "github"
 url = "https://github.com/mescam"
 
@@ -63,9 +59,6 @@ url = "/"
 name = "posts"
 url = "/posts"
 
-[[params.menu]]
-name = "about"
-url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
