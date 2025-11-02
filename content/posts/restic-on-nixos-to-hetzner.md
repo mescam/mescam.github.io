@@ -7,9 +7,9 @@ draft = false
 
 I run a small NAS at home built on NixOS and ZFS. While ZFS gives me local redundancy and snapshots, I wanted true off-site protection in case of disasters like fire, theft, or hardware failure. After evaluating a few options, I settled on Hetzner's Storage Box: it's affordable, reliable, and supports SFTP out of the box. Using Restic for encrypted, deduplicated backups seemed like the perfect match.
 
-I initially considered using ZFS snapshots as the backup source, but ultimately decided against it—I needed straightforward file-level backups of specific directories, and snapshots added complexity I didn't require for this use case.
-
 ***
+
+I initially considered using ZFS snapshots as the backup source, but ultimately decided against it—I needed straightforward file-level backups of specific directories, and snapshots added complexity I didn't require for this use case.
 
 ## Prerequisites
 
