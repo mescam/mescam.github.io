@@ -14,8 +14,8 @@ googleAnalytics = "G-xxxxxxxxx"
 description = "A Tech Blog"
 
 # Appearance settings
-theme = 'auto'
-colorPalette = 'base16-ocean'
+theme = 'dark'
+colorPalette = 'catpuccin'
 hideHeader = false
 
 # Intro on main page, content is markdown
