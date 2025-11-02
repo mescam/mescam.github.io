@@ -15,7 +15,7 @@ description = "A Tech Blog"
 
 # Appearance settings
 theme = 'dark'
-colorPalette = 'catpuccin'
+colorPalette = 'base16-ocean'
 hideHeader = false
 
 # Intro on main page, content is markdown
@@ -39,7 +39,10 @@ listSummaries = true
 listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
-breadcrumbs = true
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
 
 # Social icons
 [[params.social]]
