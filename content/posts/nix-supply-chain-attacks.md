@@ -1,7 +1,7 @@
 +++
 title = 'Two supply chain attacks in a week - how Nix could help here'
 date = 2026-03-31T20:00:00+02:00
-draft = true
+draft = false
 tags = ['nix', 'nixos', 'security', 'supply-chain']
 +++
 
