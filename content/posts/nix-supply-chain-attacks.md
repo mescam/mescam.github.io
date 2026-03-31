@@ -1,7 +1,8 @@
 +++
 title = 'Two supply chain attacks in a week - how Nix could help here'
-date = 2026-03-31T20:00:00+02:00
+date = 2026-03-31T12:00:00+02:00
 draft = false
+tags = ['nix', 'nixos', 'security', 'supply-chain']
 +++
 
 It's been a rough week for the open source ecosystem. On March 24, the Python package `litellm` was compromised on PyPI - a credential stealer was injected into two versions and sat there for about three hours before being pulled. A week later, on March 31, the same thing happened to `axios` on npm - one of the most downloaded packages in the JavaScript ecosystem, ~100 million weekly downloads, compromised with a cross-platform RAT.
